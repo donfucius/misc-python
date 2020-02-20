@@ -89,4 +89,4 @@ for s in struct_array:
         if dec_byte != 0:
             dec_str += chr(dec_byte)
     print(dec_str)
-
+    
